@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 1 - Programming Tec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 4 - LOOPS", "..\Chapter 4 - LOOPS\Chapter 4 - LOOPS.vcxproj", "{F5B1519B-6C61-46F0-AE64-06D6A3E558DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 5 - Functions", "..\Chapter 5 - Functions\Chapter 5 - Functions.vcxproj", "{9FF75787-B799-471B-8B84-EEA9A6E22571}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{F5B1519B-6C61-46F0-AE64-06D6A3E558DA}.Release|x64.Build.0 = Release|x64
 		{F5B1519B-6C61-46F0-AE64-06D6A3E558DA}.Release|x86.ActiveCfg = Release|Win32
 		{F5B1519B-6C61-46F0-AE64-06D6A3E558DA}.Release|x86.Build.0 = Release|Win32
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Debug|x64.ActiveCfg = Debug|x64
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Debug|x64.Build.0 = Debug|x64
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Debug|x86.Build.0 = Debug|Win32
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Release|x64.ActiveCfg = Release|x64
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Release|x64.Build.0 = Release|x64
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Release|x86.ActiveCfg = Release|Win32
+		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

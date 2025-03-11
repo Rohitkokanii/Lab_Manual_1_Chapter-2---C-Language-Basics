@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 4 - LOOPS", "..\Cha
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 5 - Functions", "..\Chapter 5 - Functions\Chapter 5 - Functions.vcxproj", "{9FF75787-B799-471B-8B84-EEA9A6E22571}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 8 - Arrays", "..\Chapter 8 - Arrays\Chapter 8 - Arrays.vcxproj", "{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Release|x64.Build.0 = Release|x64
 		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Release|x86.ActiveCfg = Release|Win32
 		{9FF75787-B799-471B-8B84-EEA9A6E22571}.Release|x86.Build.0 = Release|Win32
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Debug|x64.ActiveCfg = Debug|x64
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Debug|x64.Build.0 = Debug|x64
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Debug|x86.Build.0 = Debug|Win32
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Release|x64.ActiveCfg = Release|x64
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Release|x64.Build.0 = Release|x64
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Release|x86.ActiveCfg = Release|Win32
+		{BA4E8EF6-4FF3-4CFB-8F29-03676432CCAF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

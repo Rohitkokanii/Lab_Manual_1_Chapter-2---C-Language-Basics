@@ -17,7 +17,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 8 - Arrays", "..\Ch
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 6 - Storage Classes", "..\Chapter 6 - Storage Classes\Chapter 6 - Storage Classes.vcxproj", "{7838BF7E-D6A4-48DD-88C3-C6687AD1480D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 7 Lab on Sorting", "..\Chapter 7 Lab on Sorting\Chapter 7 Lab on Sorting.vcxproj", "{934416BE-562D-4BD2-B6D6-0CE496A3BC94}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_2 Chapter 1 - Sorting", "..\Chapter 7 Lab on Sorting\Chapter 7 Lab on Sorting.vcxproj", "{934416BE-562D-4BD2-B6D6-0CE496A3BC94}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_2 Chapter 2 - Strings", "..\Lab_2 Chapter 2 - Strings\Lab_2 Chapter 2 - Strings.vcxproj", "{E612BB4B-97E7-4180-80BC-D476499FA98B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,14 @@ Global
 		{934416BE-562D-4BD2-B6D6-0CE496A3BC94}.Release|x64.Build.0 = Release|x64
 		{934416BE-562D-4BD2-B6D6-0CE496A3BC94}.Release|x86.ActiveCfg = Release|Win32
 		{934416BE-562D-4BD2-B6D6-0CE496A3BC94}.Release|x86.Build.0 = Release|Win32
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Debug|x64.ActiveCfg = Debug|x64
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Debug|x64.Build.0 = Debug|x64
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Debug|x86.Build.0 = Debug|Win32
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Release|x64.ActiveCfg = Release|x64
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Release|x64.Build.0 = Release|x64
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Release|x86.ActiveCfg = Release|Win32
+		{E612BB4B-97E7-4180-80BC-D476499FA98B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
